@@ -1,0 +1,10 @@
+.important {
+    color: turquoise;
+    font-size: 20px;
+    font-style: italic;
+}
+
+h1#article-title {
+    color: purple;
+    font-family: Georgia, serif;
+}
